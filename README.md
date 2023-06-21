@@ -3,7 +3,6 @@ WPAD Sandbox Escape
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Usage Instructions](#usage instructions)
 - [License](#license)
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
@@ -68,7 +67,7 @@ Installation
 ```git clone https://github.com/Craxti/WPAD.git```
 
 
-Usage Instructions
+Usage
 ==================
 
 To gain `Local Privilege Escalation (LPE)` using this vector, we use a `WPAD` bug. We assume that we already have an `Remote Code Execution (RCE)` in the target **sandbox** environment.
